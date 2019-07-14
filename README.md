@@ -3,7 +3,7 @@ Include the date you created this project and README file
 14 July 2019
 
 ### Project Title
-Replace the Project Title
+This is Udacity Git project
 
 ### Description
 Describe what your project is about and what it does

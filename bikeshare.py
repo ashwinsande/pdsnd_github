@@ -34,7 +34,7 @@ def get_filters():
                 inputs[input_] = input_entered
                 break
             else:
-                print("Invalid choice, try again")
+                print("Invalid choice, try again please")
                 continue
     return inputs['city'], inputs['month'], inputs['day']
 
